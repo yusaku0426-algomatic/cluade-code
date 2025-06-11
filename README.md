@@ -1,4 +1,4 @@
-# Git 練習プロジェクト
+# Claude Code 練習プロジェクト
 
 このプロジェクトは Claude Code を使った Git 操作の練習用です。
 
