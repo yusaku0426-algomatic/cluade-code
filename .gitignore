@@ -1,0 +1,3 @@
+# Claude Code テストプロジェクト
+*.pyc
+__pycache__/
