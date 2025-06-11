@@ -1,1 +1,1 @@
-# Tests package for Claude Code project 
+# Tests package for Claude Code project

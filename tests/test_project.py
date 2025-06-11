@@ -52,4 +52,4 @@ class TestProjectFunctions(unittest.TestCase):
 
 if __name__ == '__main__':
     # テスト実行
-    unittest.main(verbosity=2) 
+    unittest.main(verbosity=2)
